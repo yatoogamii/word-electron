@@ -1,0 +1,11 @@
+.main {
+  min-height: calc(100vh - #{$navbarHeight});
+}
+
+.text-mode {
+  cursor: text;
+}
+
+.normal-mode {
+  cursor: default;
+}
