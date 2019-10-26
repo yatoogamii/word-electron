@@ -2,7 +2,7 @@
   "name": "word-electron",
   "productName": "word-electron",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "low copy of word",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
